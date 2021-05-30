@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="182" height="113" viewBox="0 0 182 113">
+  <defs>
+    <clipPath id="clip-my_logo_white">
+      <rect width="182" height="113"/>
+    </clipPath>
+  </defs>
+  <g id="my_logo_white" clip-path="url(#clip-my_logo_white)">
+    <text id="Thimira" transform="translate(28 71)" fill="#fff" font-size="50" font-family="Pacifico-Regular, Pacifico"><tspan x="0" y="0">Thimira</tspan></text>
+  </g>
+</svg>
